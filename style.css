@@ -29,6 +29,10 @@ h3 {
   margin-top: 15px;
 }
 
+ul {
+  margin-top: 5px;
+}
+
 nav {
   margin-bottom: 20px;
 }
@@ -42,7 +46,7 @@ nav a {
 
 .download-btn {
   display: inline-block;
-  margin-top: 10px;
+  margin-bottom: 15px;
   padding: 8px 14px;
   background-color: #003366;
   color: white;
