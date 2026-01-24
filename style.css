@@ -138,3 +138,38 @@ body {
 .top-links a:hover {
   text-decoration: underline;
 }
+
+/* ===== Print-Friendly Resume ===== */
+@media print {
+
+  body {
+    background: #ffffff;
+  }
+
+  .top-links {
+    display: none;
+  }
+
+  .resume {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 12.5px;
+    line-height: 1.35;
+  }
+
+  .resume h2 {
+    border-bottom: 1px solid #000;
+    margin-top: 18px;
+  }
+
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+
+  .job-dashes {
+    border-bottom: 1px solid #000;
+  }
+}
+
