@@ -121,3 +121,20 @@ body {
   color: #444;
 }
 
+/* Top navigation links */
+.top-links {
+  max-width: 720px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  font-size: 14px;
+}
+
+.top-links a {
+  margin-right: 18px;
+  text-decoration: none;
+  color: #0645ad;
+}
+
+.top-links a:hover {
+  text-decoration: underline;
+}
