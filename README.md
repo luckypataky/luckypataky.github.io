@@ -4,6 +4,22 @@ Mechanical Engineering graduate student seeking a part-time opportunity supporti
 
 ---
 
+## Education
+- **M.S. Mechanical Engineering**, San José State University (SJSU) — *Dec 2026*  
+- **M.S. Engineering Design**, University of Wisconsin – Platteville (UWP) — *Dec 2011*  
+- **B.S. Electrical Engineering**, Northern Illinois University (NIU) — *May 2004*  
+- **Project Management Certificate**, University of California Berkeley — *Mar 2023*
+---
+
+
+## Skills  
+SolidWorks, Pro/E, Fusion 360, ANSYS Workbench, MATLAB, Simulink  
+Python, C++, Java, SQL, HTML/CSS/JS, Shell, Unix/Linux   
+Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis  
+Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace   
+OS: Windows & Mac
+---
+
 ## Experience
 
 ### Supply Chain Engineering Intern  
@@ -130,33 +146,6 @@ Mechanical Engineering graduate student seeking a part-time opportunity supporti
 
 ---
 
-## Skills
-
-**Engineering & Analysis**  
-SolidWorks, Pro/E, Fusion 360, ANSYS Workbench, MATLAB, Simulink  
-
-**Programming**  
-Python, C++, Java, SQL, HTML/CSS/JS, Shell, Unix/Linux  
-
-**Design & Manufacturing**  
-Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis  
-
-**Project & Tools**  
-Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace  
-
-**Operating Systems**  
-Windows & Mac
-
----
-
-## Education
-
-- **M.S. Mechanical Engineering**, San José State University (SJSU) — *Dec 2026*  
-- **M.S. Engineering Design**, University of Wisconsin – Platteville (UWP) — *Dec 2011*  
-- **B.S. Electrical Engineering**, Northern Illinois University (NIU) — *May 2004*  
-- **Project Management Certificate**, University of California Berkeley — *Mar 2023*
-
----
 
 ## Awards & Leadership
 
