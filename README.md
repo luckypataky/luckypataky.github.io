@@ -1,5 +1,4 @@
 # Mechanical Engineering Graduate Student
-
 Mechanical Engineering graduate student seeking a part-time opportunity supporting engineering problem solving, process improvement, project work, and teaching activities.
 
 ---
