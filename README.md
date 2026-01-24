@@ -12,9 +12,7 @@ Mechanical Engineering graduate student seeking a part-time opportunity supporti
 ## Skills
 - SolidWorks, Pro/E, Fusion 360, ANSYS Workbench, MATLAB, Simulink   
 - Python, C++, Java, SQL, HTML/CSS/JS, Shell, Unix/Linux    
-- Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis,  
-  Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace,
-  Windows & Mac
+- Prototyping, 2D/3D drawings/modeling, GD&T, DFM, FMEA, ECO/ECR, BOM, Process & Optimization, Root Cause Analysis, Project management (Knowledge of PMBOK), MS Word, Excel, PowerPoint, Project, Visio, Access, Google Workspace, Operating system: Windows & Mac
 
 ## Experience
 
