@@ -16,7 +16,7 @@ Mechanical Engineering graduate student seeking a part-time opportunity supporti
 
 ## Experience
 
-### Supply Chain Engineering Intern, Intel Corporation**, Chandler, AZ | *May 2023 – July 2023*  
+### Supply Chain Engineering Intern, Intel Corporation, Chandler, AZ | *May 2023 – July 2023  
 - Conducted a detailed end-to-end process breakdown of semiconductor substrate packaging equipment to analyze throughput limitations.  
 - Developed process flow diagrams and mathematical throughput models in Excel to quantify bottlenecks across process flow stages.  
 - Evaluated alternative scenarios to estimate potential throughput improvements resulting from changes in specific process and design parameters.  
