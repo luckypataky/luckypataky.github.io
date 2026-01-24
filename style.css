@@ -1,55 +1,59 @@
+/* ===== Resume Base Style ===== */
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  max-width: 1000px;
-  margin: auto;
-  padding: 30px;
-  line-height: 1.5;
-  color: #000;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background: #ffffff;
+  color: #222;
 }
 
-h1 {
-  margin-bottom: 5px;
+.resume {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.45;
+  font-size: 15px;
 }
 
-h2 {
-  border-bottom: 2px solid #333;
+/* Section headers */
+.resume h2 {
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  border-bottom: 1px solid #ccc;
   padding-bottom: 4px;
-  margin-top: 35px;
+  margin-top: 32px;
+  margin-bottom: 12px;
 }
 
-h3 {
-  margin-bottom: 2px;
+/* Job header line */
+.job-header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+  margin-top: 14px;
 }
 
-.section {
-  margin-top: 20px;
+.job-title {
+  font-weight: 600;
 }
 
-.job {
-  margin-top: 15px;
+.job-date {
+  font-weight: normal;
+  font-size: 14px;
+  color: #444;
 }
 
-ul {
-  margin-top: 5px;
+/* Bullet points */
+.resume ul {
+  margin-top: 6px;
+  margin-bottom: 10px;
+  padding-left: 18px;
 }
 
-nav {
-  margin-bottom: 20px;
+.resume li {
+  margin-bottom: 4px;
 }
 
-nav a {
-  margin-right: 15px;
-  text-decoration: none;
-  font-weight: bold;
-  color: #003366;
-}
-
-.download-btn {
-  display: inline-block;
-  margin-bottom: 15px;
-  padding: 8px 14px;
-  background-color: #003366;
-  color: white;
-  text-decoration: none;
-  border-radius: 4px;
+/* Paragraph spacing reset */
+.resume p {
+  margin: 6px 0;
 }
