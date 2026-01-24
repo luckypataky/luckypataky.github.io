@@ -1,48 +1,69 @@
-/* ===== Resume Base Style ===== */
+/* ===== Resume Base ===== */
 body {
   font-family: "Helvetica Neue", Arial, sans-serif;
   background: #ffffff;
   color: #222;
 }
 
+/* Resume container */
 .resume {
-  max-width: 900px;
+  max-width: 760px;            /* KEY: narrower = better wrapping */
   margin: 40px auto;
   padding: 0 20px;
+  font-size: 14.5px;           /* slightly smaller for density */
   line-height: 1.45;
-  font-size: 15px;
+}
+
+/* Name header */
+.resume-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.resume-header h1 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.resume-header p {
+  margin: 2px 0;
+  font-size: 13.5px;
+  color: #444;
 }
 
 /* Section headers */
 .resume h2 {
-  font-size: 16px;
+  font-size: 15px;
   font-weight: 600;
-  letter-spacing: 0.5px;
+  letter-spacing: 0.4px;
   border-bottom: 1px solid #ccc;
   padding-bottom: 4px;
-  margin-top: 32px;
-  margin-bottom: 12px;
+  margin-top: 26px;
+  margin-bottom: 10px;
 }
 
-/* Job header line */
+/* Job header row */
 .job-header {
   display: flex;
   justify-content: space-between;
+  align-items: baseline;
   font-weight: 600;
   margin-top: 14px;
 }
 
 .job-title {
-  font-weight: 600;
+  max-width: 75%;
 }
 
 .job-date {
+  font-size: 13px;
   font-weight: normal;
-  font-size: 14px;
   color: #444;
+  white-space: nowrap;
 }
 
-/* Bullet points */
+/* Bullet lists */
 .resume ul {
   margin-top: 6px;
   margin-bottom: 10px;
@@ -51,9 +72,10 @@ body {
 
 .resume li {
   margin-bottom: 4px;
+  max-width: 95%;              /* forces nicer wrapping */
 }
 
-/* Paragraph spacing reset */
+/* Paragraph spacing */
 .resume p {
   margin: 6px 0;
 }
